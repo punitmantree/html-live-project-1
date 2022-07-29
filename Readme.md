@@ -16,7 +16,8 @@
 ![Project image](/live_project_ss_1.png "Project one screenshot")
 
 # Project Link
-[![Live Project 1](https://img.shields.io/badge/Project%201-Netlify-green)](www.google.com "google")
+[![Live Project 1](https://img.shields.io/badge/Project%201-Netlify-green)](https://html-live-project-one.netlify.app "Project 1")
+
 
 
 
